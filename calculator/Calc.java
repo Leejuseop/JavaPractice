@@ -1,3 +1,5 @@
+package calculator;
+
 public interface Calc {
     
     double PI = 3.14;

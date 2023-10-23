@@ -1,3 +1,5 @@
+package calculator;
+
 public class CompleteCalc extends Calculator{
 
     public int divide(int n1, int n2){
